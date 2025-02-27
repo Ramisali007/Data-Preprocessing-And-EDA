@@ -75,7 +75,7 @@ For any queries, feel free to reach out! 🚀
 
 ## 🔗 Connect with Me
 - **GitHub:** [github.com/ramisali](https://github.com/Ramisali007)
-- **LinkedIn:** [linkedin.com/in/ramisali](https://www.linkedin.com/in/ramisali)
+- **LinkedIn:** [linkedin.com/in/ramisali](https://www.linkedin.com/in/iramisali)
 
 
 ---
