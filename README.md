@@ -73,6 +73,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn rich
 **Ramis Ali** - Software Engineering Student  
 For any queries, feel free to reach out! 🚀  
 
+## 🔗 Connect with Me
+- **GitHub:** [github.com/ramisali](https://github.com/Ramisali007)
+- **LinkedIn:** [linkedin.com/in/ramisali](https://www.linkedin.com/in/ramisali)
+
+
 ---
 
 This `README.md` makes it easy for anyone to understand and run my project. 😊
